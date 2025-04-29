@@ -34,5 +34,5 @@ The Multimedia Portfolio Website project aims to create an interactive and visua
 ## Conclusion
 Welcome to my personal space, where creativity meets technology! As an IT undergraduate at Rajarata University, Sri Lanka, I am passionate about both graphic design and web development. Through this website, I aim to showcase my dedication to these fields and share my journey as a freelancer. Explore the various sections to learn more about me, my services, and view my portfolio. Feel free to connect with me through the provided contact information. Thank you for visiting, and I look forward to sharing my creative endeavors with you.
 
-Github link - https://github.com/chathubandaranayake/Portfolio
+Github link - https://github.com/chathubandaranayake/Chathu-Portfolio.git
  
