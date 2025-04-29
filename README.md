@@ -11,7 +11,6 @@ The Multimedia Portfolio Website project aims to create an interactive and visua
 -   **index.html**: Main entry point to the website.
 -   **certificate.html**:Showcasing Certificates.
 -   **portfolio.html**: Showcasing multimedia projects.
--   
 
 ### CSS Files:
 
